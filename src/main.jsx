@@ -4,8 +4,6 @@ import { AppClima } from './AppClima.jsx'
 
 
 AppClima
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <AppClima />
-  </React.StrictMode>,
+ReactDOM.createRoot(document.getElementById('root')).render(  
+    <AppClima /> 
 )
